@@ -10,7 +10,7 @@ The goal of this project is to recognize direction of of sound using simple, opt
 Clone the project
 
 ```bash
-  git clone https://github.com/irezcen/PUM_Projekt.git
+  git clone https://github.com/irezcen/Recognizing-sound-direction-with-classifiers
 ```
 From database
 https://team.inria.fr/perception/the-camil-dataset/#version11
