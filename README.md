@@ -1,5 +1,5 @@
 
-# Recognizing sound direction with calssifiers
+# Recognizing sound direction with classifiers
 The goal of this project is to recognize direction of of sound using simple, optimized classifiers. Classifiers were trained on both: Recorded and generated files using hrtfs in .sofa format. We couldn't achieve our goals, from recorded files we got about 40% accuracy score, and from generated about 90%.
 
 
